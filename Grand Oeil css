@@ -1,0 +1,21 @@
+.block{
+	padding: 15px;
+}
+
+
+.black{	
+	height: 100px;		
+	background:black;		
+}
+
+.orange{	
+	height: 100px;		
+	background:orange;		
+}
+
+.yellow{	
+	height:100px;		
+	background:yellow;		
+}
+
+
