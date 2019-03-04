@@ -1,23 +1,25 @@
-.block{
-	padding: 15px;
+
+.black,.orange,yellow{
+	padding: 5%;
 }
 
-
 .black{	
-	height: 50px;		
+			
 	background:black;		
 }
 
 .orange{	
-	height: 50px;		
+			
 	background:orange;		
 }
 
 .yellow{	
-	height: 50px;		
+			
 	background:yellow;		
 }
 
 .col-1 {
-	border: 1px solid white;	
+	border: 1px solid white;
+	
 }
+
