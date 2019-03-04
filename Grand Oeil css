@@ -4,23 +4,20 @@
 
 
 .black{	
-	height: 100px;		
+	height: 50px;		
 	background:black;		
 }
 
 .orange{	
-	height: 100px;		
+	height: 50px;		
 	background:orange;		
 }
 
 .yellow{	
-	height:100px;		
+	height: 50px;		
 	background:yellow;		
 }
 
-.col-1,.col-2,.col-3,.col-4,.col-5,.col-7,.col-9 {
-	border: 5px solid white;	
+.col-1 {
+	border: 1px solid white;	
 }
-
-
-
