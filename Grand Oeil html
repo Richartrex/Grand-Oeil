@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -11,9 +12,7 @@
     <title>Grand Oeil</title>
   </head>
   
-  <body>
-    <h1></h1>
-
+  <body>    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -23,23 +22,23 @@
 	
 <div ="block">  
 <div class= "container-fluid" >
- <div class= "row no-gutters" > 
- <div class= "col-1 black"></div> 
- <div class= "col-9 offset"></div>    
- <div class= "col-1 black"></div> 
- </div> 
+<div class= "row no-gutters" > 
+<div class= "col-1 black"></div> 
+<div class= "col-9 offset"></div>    
+<div class= "col-1 black"></div> 
+</div> 
 </div>	
  
- <div class= "container-fluid" >
- <div class= "row no-gutters" > 
- <div class= "col-1 black"></div> 
- <div class= "col-3 offset"></div>  
- <div class= "col-1 orange"></div>
- <div class= "col-1 yellow"></div>
- <div class= "col-1 orange"></div>
- <div class= "col-3 offset"></div> 
- <div class= "col-1 black"></div> 
- </div> 
+<div class= "container-fluid" >
+<div class= "row no-gutters" > 
+<div class= "col-1 black"></div> 
+<div class= "col-3 offset"></div>  
+<div class= "col-1 orange"></div>
+<div class= "col-1 yellow"></div>
+<div class= "col-1 orange"></div>
+<div class= "col-3 offset"></div> 
+<div class= "col-1 black"></div> 
+</div> 
 </div>
 
 
@@ -60,19 +59,24 @@
 
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
-<div class= "col-2 black"></div>  
-<div class= "col-2 orange"></div>  
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 orange"></div>
+<div class= "col-1 orange"></div>
 <div class= "col-1 yellow"></div>
 <div class= "col-1 black"></div>
 <div class= "col-1 yellow"></div>
-<div class= "col-2 orange"></div>
-<div class= "col-2 black"></div>   
- </div> 
+<div class= "col-1 orange"></div>
+<div class= "col-1 orange"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+</div> 
 </div>
 
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
-<div class= "col-2 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
 <div class= "col-1 offset"></div>  
 <div class= "col-1 orange"></div> 
 <div class= "col-1 yellow"></div>
@@ -80,36 +84,51 @@
 <div class= "col-1 yellow"></div>
 <div class= "col-1 orange"></div>
 <div class= "col-1 offset"></div> 
-<div class= "col-2 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div> 
 </div>
 </div>
  
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
-<div class= "col-3 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-1 offset"></div>  
 <div class= "col-1 orange"></div> 
 <div class= "col-1 yellow"></div>
 <div class= "col-1 orange"></div>
 <div class= "col-1 offset"></div> 
-<div class= "col-3 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 </div>
 </div>
 
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
 <div class= "col-1 offset"></div> 
-<div class= "col-3 black"></div>  
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-3 offset"></div> 
-<div class= "col-3 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-1 offset"></div> 
 </div>
 </div>
   
- <div class= "container-fluid" >
+<div class= "container-fluid" >
 <div class= "row no-gutters" > 
 <div class= "col-2 offset"></div> 
-<div class= "col-7 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-2 offset"></div> 
 </div>
 </div>
@@ -117,7 +136,11 @@
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
 <div class= "col-3 offset"></div> 
-<div class= "col-5 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-3 offset"></div> 
 </div>
 </div>
@@ -125,7 +148,9 @@
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
 <div class= "col-4 offset"></div> 
-<div class= "col-3 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-4 offset"></div> 
 </div>
 </div>
@@ -133,10 +158,13 @@
 <div class= "container-fluid" >
 <div class= "row no-gutters" > 
 <div class= "col-4 offset"></div> 
-<div class= "col-3 black"></div> 
+<div class= "col-1 black"></div> 
+<div class= "col-1 black"></div>
+<div class= "col-1 black"></div>
 <div class= "col-4 offset"></div> 
 </div>
 </div>
 </div>
 
+</body>
 </html>
